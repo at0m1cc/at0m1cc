@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/018ef754-e32b-4026-b87c-25ec8bc6455f.svg)](https://wakatime.com/@018ef754-e32b-4026-b87c-25ec8bc6455f)
 <!--
 **at0m1cc/at0m1cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
